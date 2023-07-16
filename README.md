@@ -7,7 +7,9 @@ I'm @callbacked **👋**
 * Anticipated to graduate w/ a BS in Computer Science in 2024 @ UMass Lowell (may the hiring gods be in my favor then)
 
 
-## Resources I tend to use frequently
+## Resources I like to peruse
 📌 [https://github.com/bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+
 📌[https://github.com/Igglybuff/awesome-piracy](https://github.com/awesome-foss/awesome-sysadmin)
+
 📌[https://linuxjourney.com/](https://linuxjourney.com/)
