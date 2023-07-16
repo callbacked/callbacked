@@ -10,6 +10,6 @@ I'm @callbacked **👋**
 ## Resources I like to peruse
 📌 [https://github.com/bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 
-📌[(https://github.com/awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+📌[https://github.com/awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
 📌[https://linuxjourney.com/](https://linuxjourney.com/)
