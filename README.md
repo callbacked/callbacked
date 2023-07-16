@@ -1,5 +1,5 @@
 # Hello!
-I'm [https://github.com/callbacked](@callbacked) **👋**
+I'm [@callbacked](https://github.com/callbacked) **👋**
 
 *  My interests lie in sysadmin, automation, DevOps, and SRE stuff
 * Currently learning Ansible and other automation tools
