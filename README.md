@@ -1,15 +1,27 @@
-# Hello!
-I'm [@callbacked](https://github.com/callbacked) **👋**
+# 👋 Hello, I'm [@callbacked](https://github.com/callbacked)
 
-*  My interests lie in sysadmin, automation, DevOps, and SRE stuff
-* Currently learning Ansible and other automation tools
-* Currently run a Docker-based homelab running Fedora since 2019, it has been a great way to learn!
-* Graduated w/ a BS in Computer Science in May 2024 @ UMass Lowell 
+Greetings! I like blending **software engineering** with **infrastructure** to build and automate amazing systems. 🚀  
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Graduated with a **BS in Computer Science** in May 2024 from **UMass Lowell**.
+- 🔧 Currently learning **Ansible** and other automation/orchestration tools to sharpen my **DevOps** expertise.
+- 🛠️ Run a Docker-based **homelab** running on Fedora since 2019 that serves as a CI/CD runner, remote code server, media server, and more
+
+---
+
+## 💼 Want to Hire Me? Let's Talk!
+I'm open to just about any opportunity -- feel free to reach out!  
+- [LinkedIn](https://www.linkedin.com/in/alex-vasquez-a20a55212/)
+
+---
+
+## 📚 Resources I Love
+Here are some resources I turn to for learning **infrastructure** and **automation**:  
+
+- 📌 [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)  
+- 📌 [Awesome SysAdmin](https://github.com/awesome-foss/awesome-sysadmin)  
+- 📌 [Linux Journey](https://linuxjourney.com/)  
 
 
-## Resources I like to peruse
-📌 [https://github.com/bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
-
-📌[https://github.com/awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-
-📌[https://linuxjourney.com/](https://linuxjourney.com/)
