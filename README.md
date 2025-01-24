@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [@callbacked](https://github.com/callbacked)
 
-Greetings! I like blending **software engineering** with **infrastructure** to build and automate amazing systems. 🚀  
+Greetings! I like blending **software engineering** with **infrastructure** to build and automate systems.  
 
 ---
 
