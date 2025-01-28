@@ -6,9 +6,9 @@ But I like building the odd app here and there too.
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Graduated with a **BS in Computer Science** in May 2024 from **UMass Lowell**.
-- 🔧 Currently learning **Ansible** and other automation/orchestration tools to sharpen my **DevOps** expertise.
-- 🛠️ Run a Docker-based **homelab** running on Fedora since 2019 that serves as a CI/CD runner, remote code server, media server, and more
+- Graduated with a **BS in Computer Science** in May 2024 from **UMass Lowell**.
+- Currently learning **Ansible** and other automation/orchestration tools to sharpen my **DevOps** expertise.
+- Run a Docker-based **homelab** running on Fedora since 2019 that serves as a CI/CD runner, remote code server, media server, and more
 - I build software during my spare time
 
 ---
