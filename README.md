@@ -14,7 +14,7 @@ But I like building the odd app here and there too.
 ---
 
 ## 💼 Want to Hire Me? Let's Talk!
-I'm open to just about any opportunity -- feel free to reach out!  
+I'm open to just about any job opportunity ever since I graduated college -- feel free to reach out!  
 - [LinkedIn](https://www.linkedin.com/in/alex-vasquez-a20a55212/)
 
 ---
